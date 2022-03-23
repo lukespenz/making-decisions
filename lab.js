@@ -13,7 +13,7 @@ var amysAge = 29;
 var brittanisAge = 34;
 var amysBirthYear = 1991;
 var brittanisBirthYear = 1986;
-
+var newChange
 ////////// PROBLEM 2 //////////
 
 /*
